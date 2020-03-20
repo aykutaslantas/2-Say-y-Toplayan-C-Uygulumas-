@@ -17,7 +17,7 @@ namespace aykutaslantas1
             sayi2 = Convert.ToInt32(Console.ReadLine());
             toplam = sayi1 + sayi2;
             Console.Write("Sayıların Toplamı ={0}",toplam);
-            Console.ReadKey();//aykutaslantass
+            Console.ReadKey();
         }
     }
 }
